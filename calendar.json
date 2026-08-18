@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/08/18 11:18",
+  "updated": "2026/08/18 11:21",
   "events": [
     {
       "title": "トマト誕生日",
@@ -12,9 +12,9 @@
     {
       "title": "ディズニーワールドビート",
       "date": "08/29",
-      "startTime": "終日",
-      "endTime": "",
-      "allDay": true
+      "startTime": "11:00",
+      "endTime": "14:00",
+      "allDay": false
     },
     {
       "title": "ひなねんみ誕生日",
