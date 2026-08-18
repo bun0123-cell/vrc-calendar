@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "updated": "2026/08/18 09:00",
+  "events": [
+    {
+      "title": "GitHub Pagesテスト",
+      "date": "08/18",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "allDay": false
+    },
+    {
+      "title": "映画鑑賞会",
+      "date": "08/20",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "allDay": false
+    }
+  ]
+}
