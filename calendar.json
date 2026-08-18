@@ -1,20 +1,55 @@
 {
   "success": true,
-  "updated": "2026/08/18 09:00",
+  "updated": "2026/08/18 09:59",
   "events": [
     {
-      "title": "GitHub Pagesテスト",
+      "title": "トマト誕生日",
       "date": "08/18",
-      "startTime": "20:00",
-      "endTime": "22:00",
-      "allDay": false
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
     },
     {
-      "title": "映画鑑賞会",
-      "date": "08/20",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "allDay": false
+      "title": "ディズニーワールドビート",
+      "date": "08/29",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "ひなねんみ誕生日",
+      "date": "09/09",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "うりば誕生日",
+      "date": "09/15",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "都市伝説課3陣",
+      "date": "09/19",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "劇団四季アナ雪",
+      "date": "09/26",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "うみか誕生日",
+      "date": "10/17",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
     }
   ]
 }
