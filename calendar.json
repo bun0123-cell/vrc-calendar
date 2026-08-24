@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/08/24 18:02",
+  "updated": "2026/08/24 18:07",
   "events": [
     {
       "title": "ディズニーワールドビート",
@@ -8,6 +8,13 @@
       "startTime": "11:00",
       "endTime": "14:00",
       "allDay": false
+    },
+    {
+      "title": "狂気山脈",
+      "date": "09/05",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
     },
     {
       "title": "ひなねんみ誕生日",
