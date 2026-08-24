@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/08/24 23:57",
+  "updated": "2026/08/25 00:02",
   "events": [
     {
       "title": "ディズニーワールドビート",
@@ -61,6 +61,13 @@
     {
       "title": "ゆうじ誕生日",
       "date": "11/13",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "ryuryu誕生日",
+      "date": "12/23",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
