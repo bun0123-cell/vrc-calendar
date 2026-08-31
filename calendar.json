@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/09/01 02:02",
+  "updated": "2026/09/01 02:07",
   "events": [
     {
       "title": "狂気山脈",
@@ -47,6 +47,13 @@
     {
       "title": "BUMPライブ",
       "date": "10/27",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "蚤の市",
+      "date": "10/31",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
