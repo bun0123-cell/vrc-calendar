@@ -1,12 +1,12 @@
 {
   "success": true,
-  "updated": "2026/09/12 09:42",
+  "updated": "2026/09/12 09:47",
   "events": [
     {
       "title": "キャプテンアメリカ　ブレイブニューワールド",
       "date": "09/12",
-      "startTime": "21:00",
-      "endTime": "22:00",
+      "startTime": "22:00",
+      "endTime": "00:00",
       "allDay": false
     },
     {
