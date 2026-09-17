@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/09/17 23:57",
+  "updated": "2026/09/18 00:03",
   "events": [
     {
       "title": "都市伝説課3陣",
@@ -47,6 +47,13 @@
     {
       "title": "ryuryu誕生日",
       "date": "12/23",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "うどん誕生日",
+      "date": "01/16",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
