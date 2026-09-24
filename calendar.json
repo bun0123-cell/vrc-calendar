@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/09/24 23:57",
+  "updated": "2026/09/25 00:02",
   "events": [
     {
       "title": "劇団四季アナ雪",
@@ -54,6 +54,13 @@
     {
       "title": "うどん誕生日",
       "date": "01/16",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "かねる誕生日",
+      "date": "01/23",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
