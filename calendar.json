@@ -1,7 +1,14 @@
 {
   "success": true,
-  "updated": "2026/09/29 01:07",
+  "updated": "2026/09/29 01:12",
   "events": [
+    {
+      "title": "グドモテスト陣",
+      "date": "10/03",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
     {
       "title": "うみか誕生日",
       "date": "10/17",
