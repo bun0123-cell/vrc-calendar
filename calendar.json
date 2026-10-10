@@ -1,14 +1,7 @@
 {
   "success": true,
-  "updated": "2026/10/10 23:57",
+  "updated": "2026/10/11 00:02",
   "events": [
-    {
-      "title": "沼男は誰だ？",
-      "date": "10/10",
-      "startTime": "終日",
-      "endTime": "",
-      "allDay": true
-    },
     {
       "title": "うみか誕生日",
       "date": "10/17",
@@ -68,6 +61,13 @@
     {
       "title": "喧炎",
       "date": "11/22",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "ryuryu誕生日",
+      "date": "12/23",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
