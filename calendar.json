@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/11/05 11:42",
+  "updated": "2026/11/05 11:47",
   "events": [
     {
       "title": "ゆうじ誕生日",
@@ -19,6 +19,13 @@
     {
       "title": "喧炎",
       "date": "11/22",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "脱出（どっちか）",
+      "date": "12/12",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
