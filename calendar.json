@@ -1,10 +1,24 @@
 {
   "success": true,
-  "updated": "2026/11/07 02:32",
+  "updated": "2026/11/07 02:37",
   "events": [
+    {
+      "title": "X-MEN2",
+      "date": "11/07",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "allDay": false
+    },
     {
       "title": "ゆうじ誕生日",
       "date": "11/13",
+      "startTime": "終日",
+      "endTime": "",
+      "allDay": true
+    },
+    {
+      "title": "デッドプール&ウルヴァリン",
+      "date": "11/14",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
@@ -54,13 +68,6 @@
     {
       "title": "こま誕生日",
       "date": "02/01",
-      "startTime": "終日",
-      "endTime": "",
-      "allDay": true
-    },
-    {
-      "title": "どぶ誕生日",
-      "date": "03/03",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
