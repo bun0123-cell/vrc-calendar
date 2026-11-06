@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/11/07 02:37",
+  "updated": "2026/11/07 02:42",
   "events": [
     {
       "title": "X-MEN2",
@@ -17,18 +17,18 @@
       "allDay": true
     },
     {
-      "title": "デッドプール&ウルヴァリン",
+      "title": "away from, 継続",
       "date": "11/14",
       "startTime": "終日",
       "endTime": "",
       "allDay": true
     },
     {
-      "title": "away from, 継続",
+      "title": "デッドプール&ウルヴァリン",
       "date": "11/14",
-      "startTime": "終日",
-      "endTime": "",
-      "allDay": true
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "allDay": false
     },
     {
       "title": "喧炎",
