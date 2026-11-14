@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/11/14 22:57",
+  "updated": "2026/11/14 23:02",
   "events": [
     {
       "title": "away from, 継続",
@@ -8,13 +8,6 @@
       "startTime": "終日",
       "endTime": "",
       "allDay": true
-    },
-    {
-      "title": "デッドプール&ウルヴァリン",
-      "date": "11/14",
-      "startTime": "21:00",
-      "endTime": "23:00",
-      "allDay": false
     },
     {
       "title": "うどん卓",
