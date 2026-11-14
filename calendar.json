@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026/11/14 19:32",
+  "updated": "2026/11/14 19:37",
   "events": [
     {
       "title": "away from, 継続",
@@ -14,6 +14,13 @@
       "date": "11/14",
       "startTime": "21:00",
       "endTime": "23:00",
+      "allDay": false
+    },
+    {
+      "title": "うどん卓",
+      "date": "11/15",
+      "startTime": "20:00",
+      "endTime": "21:00",
       "allDay": false
     },
     {
