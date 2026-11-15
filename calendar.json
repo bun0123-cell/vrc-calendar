@@ -1,14 +1,7 @@
 {
   "success": true,
-  "updated": "2026/11/15 20:57",
+  "updated": "2026/11/15 21:03",
   "events": [
-    {
-      "title": "うどん卓",
-      "date": "11/15",
-      "startTime": "20:00",
-      "endTime": "21:00",
-      "allDay": false
-    },
     {
       "title": "喧炎",
       "date": "11/28",
